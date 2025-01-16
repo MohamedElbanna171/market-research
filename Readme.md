@@ -36,6 +36,8 @@ Here's a sneak peek at one of the visualizations from the analysis:
 
 ![Industry Bar Chart Example](image.png)
 
+![Industry Bar Chart Example](image2.png)
+
 ---
 
 Feel free to explore the data and reach out with any questions! 😊
